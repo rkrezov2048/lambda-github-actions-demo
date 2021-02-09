@@ -1,6 +1,6 @@
 service: serv-proj
 
-frameworkVersion: '2'
+frameworkVersion: '>=1.83.2<2.0.0'
 
 provider:
   name: aws
