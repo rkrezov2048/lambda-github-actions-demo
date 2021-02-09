@@ -4,7 +4,7 @@ frameworkVersion: '>=1.83.2<2.0.0'
 
 provider:
   name: aws
-  runtime: python3.8
+  runtime: python3.7
   region: eu-central-1
   lambdaHashingVersion: 20201221
 
